@@ -1,6 +1,6 @@
 # Siswa Kelas XII TJKT
 
-![Foto Profil](xii_tkj.jpg)
+![Foto Profil](xii_tkj.jpeg)
 
 ## Mata Pelajaran
 
